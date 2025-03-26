@@ -14,7 +14,7 @@ Siga os passos abaixo para rodar o projeto localmente:
  ```bash
 git clone https://github.com/vanvilas/login-form.git
 ```
-2. Abra o arquivo index.html no seu navegador.
+2. Abra o arquivo `index.html` no seu navegador.
 
 ## Funcionalidades Futuras
 - Adicionar validação de campos com JavaScript.
