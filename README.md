@@ -20,6 +20,9 @@ git clone https://github.com/vanvilas/login-form.git
 - Adicionar validação de campos com JavaScript.
 - Criar uma versão responsiva para dispositivos móveis.
 
+## Captura de Tela
+![screenshot](screenshot.png)
+
 ## Autor
 - Vanessa Vilas Boas
 
