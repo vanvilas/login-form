@@ -22,7 +22,7 @@ git clone https://github.com/vanvilas/login-form.git
 
 ## Captura de Tela
 
-<img width="960" alt="screenshot" src="https://github.com/user-attachments/assets/69f02416-a8f7-40a3-b294-a7162557da0f" />
+![screenshot](screenshot.png)
 
 ## Autor
 - Vanessa Vilas Boas
