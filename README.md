@@ -21,7 +21,8 @@ git clone https://github.com/vanvilas/login-form.git
 - Criar uma versão responsiva para dispositivos móveis.
 
 ## Captura de Tela
-![screenshot](screenshot.png)
+
+<img width="960" alt="screenshot" src="https://github.com/user-attachments/assets/69f02416-a8f7-40a3-b294-a7162557da0f" />
 
 ## Autor
 - Vanessa Vilas Boas
